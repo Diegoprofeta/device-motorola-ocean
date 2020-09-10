@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ocean.mk
+    $(LOCAL_DIR)/rr_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ocean-eng \
-    lineage_ocean-user \
-    lineage_ocean-userdebug
+    rr_ocean-eng \
+    rr_ocean-user \
+    rr_ocean-userdebug
