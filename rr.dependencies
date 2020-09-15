@@ -8,4 +8,5 @@
    "target_path": "packages/apps/MotCamera2",
    "branch" : "q-arm64",
    "remote" : "moto-camera"
+ }
 ]
