@@ -4,9 +4,9 @@
    "target_path": "device/motorola/sdm632-common"
  },
  {
-   "repository": "motorola_camera2_denali-3",
+   "repository": "motorola_camera2_denali-2",
    "target_path": "packages/apps/MotCamera2",
-   "branch" : "q-arm64",
+   "branch" : "ten-arm64",
    "remote" : "moto-camera"
  }
 ]
