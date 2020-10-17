@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_ocean.mk
+    $(LOCAL_DIR)/arrow_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    rr_ocean-eng \
-    rr_ocean-user \
-    rr_ocean-userdebug
+    arrow_ocean-eng \
+    arrow_ocean-user \
+    arrow_ocean-userdebug
