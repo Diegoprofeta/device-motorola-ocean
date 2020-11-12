@@ -5,8 +5,6 @@
  },
  {
    "repository": "motorola_camera2_denali-2",
-   "target_path": "packages/apps/MotCamera2",
-   "branch" : "ten-arm64",
-   "remote" : "moto-camera"
+   "target_path": "packages/apps/MotCamera2"
  }
 ]
