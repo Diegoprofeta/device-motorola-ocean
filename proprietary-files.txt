@@ -31,6 +31,9 @@ vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb
 
+# APN
+product/etc/apns-conf.xml
+
 # Camera
 vendor/lib/libmot_gpu_mapper.so
 
