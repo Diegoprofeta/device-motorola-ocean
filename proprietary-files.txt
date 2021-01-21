@@ -135,6 +135,20 @@ vendor/lib/libchromatix_mot_s5k5e9_snapshot.so
 vendor/lib/libchromatix_mot_s5k5e9_video_full.so
 vendor/lib/libchromatix_mot_s5k5e9_zsl_preview_3a.so
 vendor/lib/libchromatix_mot_s5k5e9_zsl_video_3a.so
+vendor/lib/libchromatix_s5k4h7_channel_common.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_hfr_120.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_liveshot.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_preview.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_snapshot.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_snapshot_custom.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_video_full.so
+vendor/lib/libchromatix_s5k4h7_channel_hfr_120.so
+vendor/lib/libchromatix_s5k4h7_channel_hfr_120_3a.so
+vendor/lib/libchromatix_s5k4h7_channel_postproc.so
+vendor/lib/libchromatix_s5k4h7_channel_snapshot.so
+vendor/lib/libchromatix_s5k4h7_channel_video_full.so
+vendor/lib/libchromatix_s5k4h7_channel_zsl_preview_3a.so
+vendor/lib/libchromatix_s5k4h7_channel_zsl_video_3a.so
 vendor/lib/libchromatix_ov12a10_ocean_common.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_hfr_120.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_hfr_60.so
@@ -257,6 +271,15 @@ vendor/lib/libmmcamera_tintless_bg_pca_algo.so
 vendor/lib/libmmcamera_tuning.so
 vendor/lib/libmmcamera_tuning_lookup.so
 vendor/lib/libmmcamera_vstab_module.so
+vendor/lib64/libmmcamera2_frame_algorithm.so
+vendor/lib64/libmmcamera2_is.so
+vendor/lib64/libmmcamera2_stats_algorithm.so
+vendor/lib64/libmmcamera2_stats_lib.so
+vendor/lib64/libmmcamera_dbg.so
+vendor/lib64/libmmcamera_faceproc.so
+vendor/lib64/libmmcamera_faceproc2.so
+vendor/lib64/libmmcamera_tintless_algo.so
+vendor/lib64/libmmcamera_tintless_bg_pca_algo.so
 
 # Camera - Firmware
 vendor/firmware/cpp_firmware_v1_10_0.fw
