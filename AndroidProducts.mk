@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_ocean.mk
+    $(LOCAL_DIR)/styx_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_ocean-eng \
-    aosip_ocean-user \
-    aosip_ocean-userdebug
+    styx_ocean-eng \
+    styx_ocean-user \
+    styx_ocean-userdebug
