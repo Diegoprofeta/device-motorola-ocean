@@ -20,6 +20,9 @@ $(call inherit-product-if-exists, vendor/motorola/ocean/ocean-vendor.mk)
 # Properties
 -include $(LOCAL_PATH)/vendor_prop.mk
 
+# Test for now
+PRODUCT_SOONG_NAMESPACES += packages/apps/Bluetooth
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
