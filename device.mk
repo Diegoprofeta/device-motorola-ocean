@@ -23,7 +23,6 @@ $(call inherit-product, vendor/motorola/ocean/ocean-vendor.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
 
 PRODUCT_PACKAGES += \
     NoCutoutOverlay
@@ -46,6 +45,7 @@ PRODUCT_COPY_FILES += \
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1520
 TARGET_SCREEN_WIDTH := 720
+src_resolution := 720
 
 # Camera
 PRODUCT_COPY_FILES += \
